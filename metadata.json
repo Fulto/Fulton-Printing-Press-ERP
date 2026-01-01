@@ -1,0 +1,8 @@
+{
+  "name": "Fulton Printing Press ERP",
+  "description": "A multi-tenant cloud-based ERP for printing press and stationery businesses, featuring automated job costing, AI support, and multi-branch management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
